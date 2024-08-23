@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @detoxycodein
+- 👀 I’m interested in web development, Python programming, and game development.
+- 🌱 I’m currently learning more about web technologies and how to build scalable applications.
+- 💞️ I’m looking to collaborate on open-source projects, especially those involving Python and web development.
+- 📫 How to reach me: You can contact me via [chabanvitalik5@gmail.com](mailto:chabanvitalik5@gmail.com).
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I once won a chess game with a surprising move that no one expected!
